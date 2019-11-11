@@ -32,4 +32,6 @@ target 'react-native-svg-charts' do
 
   pod 'RNSVG', :path => '../node_modules/react-native-svg'
 
+  pod 'RNReanimated', :path => '../node_modules/react-native-reanimated'
+
 end
